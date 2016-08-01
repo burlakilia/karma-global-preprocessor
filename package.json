@@ -1,0 +1,24 @@
+{
+  "name": "karma-global-preprocessor",
+  "version": "0.0.1",
+  "description": "A Karma plugin to set globally defined variables for your tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jgodi/karma-global-preprocessor"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "global-variables"
+  ],
+  "author": "Joshua Godi <joshuagodi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgodi/karma-global-preprocessor/issues"
+  },
+  "homepage": "https://github.com/jgodi/karma-global-preprocessor"
+}
