@@ -1,6 +1,6 @@
 {
   "name": "karma-global-preprocessor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Karma plugin to set globally defined variables for your tests.",
   "main": "index.js",
   "scripts": {
