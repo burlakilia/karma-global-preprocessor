@@ -17,6 +17,18 @@
                 'MY_VAR': 123
             },
             
+            // Add plugin to karma
+            plugins: [
+                ...
+                'karma-global-preprocessor',
+                ...
+            ],
+            
+            // Select the file where we will insert the definition of global variables
+            preprocessors: {
+                'index.js': ['global']
+            }
+            
             ...
         });
     };
